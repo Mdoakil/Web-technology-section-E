@@ -1,0 +1,21 @@
+<Admission_information>
+
+    <Information sl="1">
+        <Sl_No>23</sl>
+        <Name>John Carter</Name>
+        <Admission_Date>25/12/2015</Admission_Date>
+    </Information>
+
+    <Information sl="2">
+        <Sl_No>29</sl>
+        <Name>Bob Marshal</Name>
+        <Admission_Date>13/12/1999</Admission_Date>
+    </Information>
+
+    <Information sl="3">
+        <Sl_No>35</sl>
+        <Name>Clark Kent</Name>
+        <Admission_Date>17/06/2005</Admission_Date>
+    </Information>
+
+</Admission_information>
